@@ -4,4 +4,10 @@ class PagesController < ApplicationController
 
   def afterschool
   end
+
+  def taps
+
+  end
+
+
 end
